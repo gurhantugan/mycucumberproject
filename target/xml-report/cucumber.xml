@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="186.272">
+    <testcase classname="grid_feature" name="TC_02_Testing_On_Firefox" time="186.008">
+        <system-out>
+            <![CDATA[Given user is on the application_url with firefox...........................passed
+Then verify the title of the page is GMIBANK................................passed
+Then close the remote driver................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
