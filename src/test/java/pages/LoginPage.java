@@ -7,7 +7,7 @@ import utilities.Driver;
 
 public class LoginPage {
 
-    //    Find the page objec t in this class
+    //    Find the page object in this class
 //    creating the constructor to initialize the page element
 //    PageFactory.initElements is used to initialize this page objects
     public LoginPage(){
