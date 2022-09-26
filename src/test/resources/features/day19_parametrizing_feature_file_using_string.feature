@@ -7,12 +7,10 @@ Feature: Search_Functionality
   @i_search
   Scenario: TC01_iphone_search
 
-
     Scenario: TC02_teapot_search
       When user search for "tea pot"
       Then verify the result has "tea pot"
       Then close the application
-
 
   Scenario: TC03_tesla_search
       When user search for "tesla"
